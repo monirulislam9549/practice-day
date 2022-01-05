@@ -1,0 +1,70 @@
+body{
+    font-family: 'Lobster', cursive;
+font-family: 'Merriweather', serif;
+}
+
+.div1   {width: 20%;
+        background-color: rgb(19, 228, 158);
+        padding-left: 3%;
+        padding-bottom: 3%;
+        padding-right: 3%;
+        padding-top: 3%;
+        border-left: 7px solid;
+        box-shadow: 10px 30px 40px rgb(128, 100, 207);
+        border-radius: 5%;
+        margin: 10px;
+      
+       
+        
+       
+}
+
+.div2   {width: 20%;
+    background-color: rgb(19, 228, 158);
+    padding-left: 3%;
+    padding-bottom: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    border-left: 7px solid;
+    box-shadow: 10px 30px 40px rgb(128, 100, 207);
+    border-radius: 5%;
+    margin: 10px;
+
+}
+
+
+.div3{
+    width: 20%;
+        background-color: rgb(19, 228, 158);
+        padding-left: 3%;
+        padding-bottom: 3%;
+        padding-right: 3%;
+        padding-top: 3%;
+        border-left: 7px solid;
+        box-shadow: 10px 30px 40px rgb(128, 100, 207);
+        border-radius: 5%;
+        margin: 10px;
+
+}
+
+.div4{
+    width: 20%;
+        background-color: rgb(19, 228, 158);
+        padding-left: 3%;
+        padding-bottom: 3%;
+        padding-right: 3%;
+        padding-top: 1%;
+        border-left: 7px solid;
+        box-shadow: 10px 30px 40px rgb(128, 100, 207);
+        border-radius: 5%;
+        margin: 10px;
+}
+.section0{
+    display: flex;
+    
+   
+    
+}
+
+    
+    
